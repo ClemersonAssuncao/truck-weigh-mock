@@ -1,4 +1,4 @@
 rootProject.name = 'truck-weigh-mock'
 
-include 'weigh-hub'
-include 'duo-weigh'
+include 'server-weigh-hub'
+include 'client-duo-weigh'

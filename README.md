@@ -6,7 +6,7 @@ Projeto multi-módulo com dois serviços Java independentes para gestão de pesa
 
 ## Pesagem
 
-![Janela de pesagem](/docs/assets/images/pesagem.png)
+![Janela de pesagem](docs/assets/images/pesagem.png)
 
 ## Estrutura do Projeto
 
